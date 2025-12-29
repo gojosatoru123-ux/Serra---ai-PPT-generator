@@ -20,7 +20,7 @@ const DashboardPage = async () => {
                     </div>
                     <Link
                         href="/create-page"
-                        className="relative flex items-center gap-2 overflow-hidden rounded-full bg-zinc-900 px-8 py-4 text-sm font-semibold text-white shadow-2xl transition-all duration-300 hover:bg-zinc-800 hover:shadow-primary-500/20 hover:-translate-y-1 active:scale-95 dark:bg-white dark:text-zinc-950"
+                        className="relative flex items-center gap-2 overflow-hidden rounded-full bg-coral px-8 py-4 text-sm font-semibold text-white shadow-2xl transition-all duration-300 hover:bg-lavender hover:shadow-primary-500/20 hover:-translate-y-1 active:scale-95 dark:bg-white dark:text-zinc-950"
                     >
                         <span className="relative z-10 text-2xl">Start Building</span>
                         <ArrowRight className="h-7 w-7 transition-transform duration-300 group-hover:translate-x-1" />
