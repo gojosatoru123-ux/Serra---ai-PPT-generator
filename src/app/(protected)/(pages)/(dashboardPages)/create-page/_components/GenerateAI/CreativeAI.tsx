@@ -82,7 +82,7 @@ const CreativeAI = ({ onBack }: Props) => {
                     id: v4(),
                     title: currentAiPrompt || outlines?.[0]?.title,
                     outlines: outlines,
-                    createdAt: new Date().toISOString()
+                    createdAt: new Date()
                 });
                 router.push(`/presentation/${res.data.id}/select-theme`);
             }
