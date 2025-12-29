@@ -12,7 +12,7 @@ const Footer = () => {
                 <Presentation className="w-5 h-5 text-white" />
               </div>
               <span className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-br from-[#ec5e8a] to-[#a37ae6]">
-                SlideAI
+                Serra
               </span>
             </div>
             <p className="text-[#806680] text-sm mb-6">
@@ -66,7 +66,7 @@ const Footer = () => {
 
         <div className="pt-8 border-t border-[#fce6ed]/50 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-sm text-[#806680]">
-            © 2024 SlideAI. All rights reserved.
+            © 2024 Serra. All rights reserved.
           </p>
           <div className="flex gap-6 text-sm text-[#806680]">
             <a href="#" className="hover:text-[#4d2d4d] transition-colors">Privacy</a>

@@ -79,7 +79,7 @@ const HeroSection = () => {
           <div className="relative rounded-3xl overflow-hidden shadow-[0_8px_30px_-10px_rgba(102,51,128,0.1)] border border-[#fce6ed]/50">
             <img 
               src={heroIllustration.src} 
-              alt="SlideAI Preview" 
+              alt="Serra Preview" 
               className="w-full h-auto"
             />
           </div>

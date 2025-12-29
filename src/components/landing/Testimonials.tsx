@@ -5,7 +5,7 @@ const testimonials = [
     name: "Sarah Chen",
     role: "Marketing Director",
     avatar: "SC",
-    content: "SlideAI saved me hours of work! I created a stunning investor deck in just 5 minutes. The AI really understands what looks good.",
+    content: "Serra saved me hours of work! I created a stunning investor deck in just 5 minutes. The AI really understands what looks good.",
     rating: 5,
   },
   {

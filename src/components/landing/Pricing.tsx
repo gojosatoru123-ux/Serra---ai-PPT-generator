@@ -5,7 +5,7 @@ const plans = [
   {
     name: "Starter",
     price: "Free",
-    description: "Perfect for trying out SlideAI",
+    description: "Perfect for trying out Serra",
     features: [
       "5 presentations per month",
       "Basic templates",

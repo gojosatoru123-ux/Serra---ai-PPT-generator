@@ -80,7 +80,7 @@ const Navbar = () => {
           <div className="w-10 h-10 rounded-2xl bg-gradient-to-br from-[#ec5e8a] to-[#ebd9f2] flex items-center justify-center">
             <Presentation className="w-5 h-5 text-white" />
           </div>
-          <span className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-[#ec5e8a] to-[#a37ae6]">SlideAI</span>
+          <span className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-[#ec5e8a] to-[#a37ae6]">Serra</span>
         </a>
 
         {/* Desktop Navigation */}
@@ -133,7 +133,7 @@ const Navbar = () => {
                   <div className="w-8 h-8 rounded-xl bg-gradient-to-br from-[#ec5e8a] to-[#ebd9f2] flex items-center justify-center">
                     <Presentation className="w-4 h-4 text-white" />
                   </div>
-                  <span className="text-lg font-bold bg-clip-text text-transparent bg-gradient-to-r from-[#ec5e8a] to-[#a37ae6]">SlideAI</span>
+                  <span className="text-lg font-bold bg-clip-text text-transparent bg-gradient-to-r from-[#ec5e8a] to-[#a37ae6]">Serra</span>
                 </a>
                 <SheetClose asChild>
                   <Button variant="ghost" size="icon" className="h-8 w-8 text-[#4d2d4d]">
